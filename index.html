@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stop-Watch</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="bg-orange-600">
+  <main class="w-full 2xl:container mx-auto text-center ">
+    <h1 class="w-full text-slate-50 uppercase text-5xl font-myfont font-bold flex place-content-center my-[60px]">
+      stopwatch</h1>
+    <div class="w-full flex place-content-center my-[60px] *:text-white">
+      <span id="first" class="text-6xl font-myfont">00</span>
+      <span class="text-6xl font-myfont">:</span>
+      <span id="last" class="text-6xl font-myfont">00</span>
+    </div>
+    <div
+      class="w-full flex place-content-center *:text-slate-50 *:rounded-lg *:mx-[10px] *:px-10 *:py-2 *:border *:font-myfont">
+      <button id="strat" onclick="starttimer()"
+        class="transition-all duration-[.7s] hover:bg-white hover:text-orange-600">Start</button>
+      <button id="stop" onclick="stoptimer()"
+        class="transition-all duration-[.7s] hover:bg-white hover:text-orange-600">Stop</button>
+      <button id="reset" onclick="resettimer()"
+        class="transition-all duration-[.7s] hover:bg-white hover:text-orange-600">Reset</button>
+    </div>
+    <footer class="w-full border border-orange-600 flex place-content-center mt-[100px] bg-orange-700 *:my-[20px]">
+      <p class="text-xl font-myfont text-slate-200">Developed By <a
+          href="http://www.linkedin.com/in/fateme-mohamadian-dev0824"
+          class="text-white hover:text-yellow-300 underline">Fatemeh Mohamadian</a> & <a href="https://www.linkedin.com/in/nasim-pirghollo-a783952a9/
+        " class="text-white hover:text-yellow-300 underline">Nasim Pirghollo</a></p>
+    </footer>
+  </main>
+
+  <script src="js/master.js"></script>
+</body>
+
+</html>
