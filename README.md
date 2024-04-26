@@ -1,13 +1,12 @@
 # Trick-StopWatch
 Used By JS
-👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/Trick-StopWatch/)
+👩‍💻😎  [Watch Demo](https://fatememohamadian.github.io/Trick-StopWatch/)
+
                                                            😎😉  
                                                            
-                                                          
-![1](https://github.com/fatemeMohamadian/Personal-Website/assets/155579918/a2a1fd26-94b2-43da-8ab2-92894a700bd5)
-                                                             👩‍💻
- ![2](https://github.com/fatemeMohamadian/Personal-Website/assets/155579918/fc766c06-12d3-4e3f-b66a-2519fae0258a)                                       
-                                                            😎😉  
+                                                      
+![1](https://github.com/fatemeMohamadian/Trick-StopWatch/assets/155579918/a0102865-cd1d-4c6f-af8a-f910d21458f8)
+                                                             👩‍💻 
 
  😉Developed by <a href="https://linkedin.com/in/fateme-mohamadian-dev0824" target="blank">Fateme Mohamadian</a> & <a href="https://github.com/Nasim1380p" target="blank">NasimPirghollo</a>
 
